@@ -1,0 +1,3 @@
+<launch>
+<node name="odom_receive" pkg="knu_ros_lecture" type="odom_subscriber" output="screen"/>
+</launch>
